@@ -39,3 +39,7 @@ A github rental unit for personal files
 - Get mackflix running again
 - Use desktop as server, open ssh ports
 - Create new discord
+
+## Stuff installed after repo was created
+- `brew install watch`
+- `brew install kubernetes-helm`
