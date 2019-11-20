@@ -2,6 +2,9 @@
 A github rental unit for personal files
 
 ## Important Stuff
+- [Hopper](https://www.hopperapp.com)
+- [Mission Control Plus](https://fadel.io/MissionControlPlus)
+- [Tempo](https://www.yourtempo.co/)
 - 1Password?
 - Brew 
 - Charles Proxy
@@ -10,7 +13,6 @@ A github rental unit for personal files
 - Gif Brewery 
 - Go
 - Google Chrome
-- Hopper (https://www.hopperapp.com/)
 - iTerm
 - Kubectl
 - Minikube
@@ -23,13 +25,16 @@ A github rental unit for personal files
 - Plex
 - Postman
 - Python Jupyter 
+- SideNotes
 - Sketch
 - Slack
 - Spotify
+- Swish
 - TablePlus
 - VSCode
 - XCode
 - Zsh
+
 
 ## Personal To-Do's
 - Create new gmail account mack.boudreau2-tossaway@gmail.com (use for youtube)
@@ -43,3 +48,6 @@ A github rental unit for personal files
 ## Stuff installed after repo was created
 - `brew install watch`
 - `brew install kubernetes-helm`
+- Andromeda
+- VSCode Icons
+- Remote Code / LiveShare / Alphabetic sorter (VSCode extension)
