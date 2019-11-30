@@ -1,0 +1,17 @@
+Host gitlab.com
+  HostName altssh.gitlab.com
+  User git
+  Port 443
+  PreferredAuthentications publickey
+  IdentityFile ~/.ssh/gitlab
+
+Match host albert exec "airport -I | awk -F: '/ SSID: /{print $2}' | grep 'Orbi' &>/dev/null"
+  HostName 192.168.2.205
+  Port 22
+
+Host albert
+  User mack
+  Port 22
+  HostName 134.41.100.134
+Host albert
+  HostName albert
