@@ -54,3 +54,5 @@ A github rental unit for personal files
 
 ## Stuff to remember 
 - Slack theme `#1C1F26,#22252C,#466CB8,#FFFFFF,#22252C,#DCE2E8,#45CAFF,#e83a3d`
+
+ `export ret_status="%(?:%{$fg_bold[green]%}➤ :%{$fg_bold[red]%}➤ )"`
