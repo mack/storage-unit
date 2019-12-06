@@ -8,6 +8,9 @@ A github rental unit for personal files
 - 1Password?
 - Brew 
 - Charles Proxy
+- clean my mac
+- premiere pro
+- ae
 - Discord
 - Docker
 - Gif Brewery 
@@ -19,11 +22,15 @@ A github rental unit for personal files
 - Ngrok
 - NodeJS?
 - NordVPN
+- notation
+- HyperDock / Magnet
+- https://meetfranz.com/
+- the unarchiever
 - NPM?
 - Oh my zsh
 - OneNote?
 - Plex
-- Postman
+- Postman <- checkout insomia first
 - Python Jupyter 
 - SideNotes
 - Sketch
@@ -32,6 +39,8 @@ A github rental unit for personal files
 - Swish
 - TablePlus
 - VSCode
+- insomnia.rest
+- battery health 2 (cmd + click/drag regular battery off toolbar)
 - XCode
 - Zsh
 
