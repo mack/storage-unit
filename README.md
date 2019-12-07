@@ -14,6 +14,7 @@ A github rental unit for personal files
 - Discord
 - Docker
 - Gif Brewery 
+- Padbury Clock
 - Go
 - Google Chrome
 - iTerm
@@ -42,6 +43,7 @@ A github rental unit for personal files
 - insomnia.rest
 - battery health 2 (cmd + click/drag regular battery off toolbar)
 - XCode
+- Pock (maybe)
 - Zsh
 
 
@@ -65,3 +67,5 @@ A github rental unit for personal files
 - Slack theme `#1C1F26,#22252C,#466CB8,#FFFFFF,#22252C,#DCE2E8,#45CAFF,#e83a3d`
 
  `export ret_status="%(?:%{$fg_bold[green]%}➤ :%{$fg_bold[red]%}➤ )"`
+
+ - change Vs code terminal view shortcut key to cmd+`
