@@ -93,13 +93,12 @@ This is my personal storage unit on git. It houses my config files, list of appl
 ## CLI Applications
 <sub>Last updated: Sat 14 Dec 2019</sub>
 - [Brew](https://brew.sh/)
-- Rustc
+- GCloud
 - Go
 - Kubectl
 - Minikube
 - Ngrok
-- Node.js
-- NPM
+- Node.js / NPM
 - [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
   <details>
     <h3>Settings/Extensions</h3>
@@ -107,8 +106,24 @@ This is my personal storage unit on git. It houses my config files, list of appl
       <li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">Syntax Highlighting</a></li>
     </ul>
   </details>
+- Protoc
 - Python3
-- Jupyter Notebooks
+  <details>
+    <h3>Pip3 installs</h3>
+    <ul>
+      <li>Jupyter Notebooks</li>
+      <li>Keras</li>
+      <li>Numpy</li>
+      <li>Pandas</li>
+      <li>SKLearn</li>
+      <li>Tensorflow</li>
+    </ul>
+  </details>
+
+- Rustc
+- SVGO
+
 
 # Config Applications
+<sub>Last updated: Sat 14 Dec 2019</sub>
 - [Padbury Clock](https://padbury.app/)
