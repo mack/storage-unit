@@ -12,12 +12,12 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - [Adobe Photoshop CC](https://www.adobe.com/ca/creativecloud.html)
 - [Adobe Premiere Pro CC](https://www.adobe.com/ca/creativecloud.html)
 - [AirBuddy](https://gumroad.com/l/airbuddy)
-  <sub>
+  <details>
     <h3>Settings</h3>
     <ul>
       <li>Battery Widget</li>
     </ul>
-  </sub>
+  </details>
 - [Charles Proxy](https://www.charlesproxy.com/)
 - [CleanMyMac X](https://macpaw.com/cleanmymac)
 - [Discord](https://discordapp.com/)
@@ -29,8 +29,9 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - [Insomnia](https://insomnia.rest/)
 - [iStat Menus](https://bjango.com/mac/istatmenus)
 - [iTerm 2](https://iterm2.com/)
-  <sub>
-    <h3>Preferences > Profiles > Keys
+  <details>
+    <h3>Settings</h3>
+    <h5>Preferences > Profiles > Keys</h5>
     <ul>
       <li>Left option: Esc+</li>
       <li>Key Mappings
@@ -42,15 +43,15 @@ This is my personal storage unit on git. It houses my config files, list of appl
         </ul>
       </li>
     </ul>
-  </sub>
+  </details>
 - [Magnet](https://magnet.crowdcafe.com/)
-  <sub>
+  <details>
     <h3>Settings</h3>
     <ul>
       <li>Split up/down/left/right: <i>control+option+arrow</i></li>
       <li>Split top left/top right/bottom left/bottom right: <i>control+option+u/i/j/k</i></li>
     </ul>
-  </sub>
+  </details>
 - [Mission Control Plus](https://fadel.io/MissionControlPlus)
 - [NordVPN](https://nordvpn.com)
 - [Sketch](https://www.sketch.com/)
@@ -60,7 +61,7 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - [TablePlus](https://tableplus.com/)
 - [The Unarchiver](https://theunarchiver.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-  <sub>
+  <details>
     <h3>Extensions</h3>
     <ul>
       <li>Alphabetic sorter</li>
@@ -86,7 +87,7 @@ This is my personal storage unit on git. It houses my config files, list of appl
       </li>
     </ul>
     <br/>
-  </sub>
+  </details>
 - [XCode](https://developer.apple.com/xcode/)
 
 ## CLI Applications
@@ -100,12 +101,12 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - Node.js
 - NPM
 - [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
-  <sub>
+  <details>
     <h3>Settings/Extensions</h3>
     <ul>
       <li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">Syntax Highlighting</a></li>
     </ul>
-  </sub>
+  </details>
 - Python3
 - Jupyter Notebooks
 
