@@ -13,12 +13,10 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - [Adobe Premiere Pro CC](https://www.adobe.com/ca/creativecloud.html)
 - [AirBuddy](https://gumroad.com/l/airbuddy)
   <sub>
-    <details>
-      <summary>Settings</summary>
-      <ul>
-        <li>Battery Widget</li>
-      </ul>
-    </details>
+    <h3>Settings</h3>
+    <ul>
+      <li>Battery Widget</li>
+    </ul>
   </sub>
 - [Charles Proxy](https://www.charlesproxy.com/)
 - [CleanMyMac X](https://macpaw.com/cleanmymac)
@@ -32,31 +30,26 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - [iStat Menus](https://bjango.com/mac/istatmenus)
 - [iTerm 2](https://iterm2.com/)
   <sub>
-    <details>
-      <summary>Settings</summary>
-      <h3>Preferences > Profiles > Keys
-      <ul>
-        <li>Left option: Esc+</li>
-        <li>Key Mappings
-          <ul>
-            <li>opton+left-arrow -> <i>Esc Sequence: b</i></li>
-            <li>opton+right-arrow -> <i>Esc Sequence: f</i></li>
-            <li>opton+up-arrow -> <i>Hex Code: 0x01</i></li>
-            <li>opton+down-arrow -> <i>Hex Code: 0x05</i></li>
-          </ul>
-        </li>
-      </ul>
-    </details>
+    <h3>Preferences > Profiles > Keys
+    <ul>
+      <li>Left option: Esc+</li>
+      <li>Key Mappings
+        <ul>
+          <li>opton+left-arrow -> <i>Esc Sequence: b</i></li>
+          <li>opton+right-arrow -> <i>Esc Sequence: f</i></li>
+          <li>opton+up-arrow -> <i>Hex Code: 0x01</i></li>
+          <li>opton+down-arrow -> <i>Hex Code: 0x05</i></li>
+        </ul>
+      </li>
+    </ul>
   </sub>
 - [Magnet](https://magnet.crowdcafe.com/)
   <sub>
-    <details>
-      <summary>Settings</summary>
-      <ul>
-        <li>Split up/down/left/right: <i>control+option+arrow</i></li>
-        <li>Split top left/top right/bottom left/bottom right: <i>control+option+u/i/j/k</i></li>
-      </ul>
-    </details>
+    <h3>Settings</h3>
+    <ul>
+      <li>Split up/down/left/right: <i>control+option+arrow</i></li>
+      <li>Split top left/top right/bottom left/bottom right: <i>control+option+u/i/j/k</i></li>
+    </ul>
   </sub>
 - [Mission Control Plus](https://fadel.io/MissionControlPlus)
 - [NordVPN](https://nordvpn.com)
@@ -68,34 +61,31 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - [The Unarchiver](https://theunarchiver.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
   <sub>
-    <details>
-      <summary>Extensions/Settings</summary>
-      <h3>Extensions</h3>
-      <ul>
-        <li>Alphabetic sorter</li>
-        <li>Andromeda</li>
-        <li>C/C++</li>
-        <li>Code Runner</li>
-        <li>Docker</li>
-        <li>DotENV</li>
-        <li>ESLint</li>
-        <li>Go</li>
-        <li>Kubernetes</li>
-        <li>LiveShare</li>
-        <li>Python</li>
-        <li>Remote Code</li>
-        <li>Rust</li>
-        <li>VSCode Icons</li>
-        <li>YAML</li>
-      </ul>
-      <h3>Settings</h3>
-      <ul>
-        <li>
-          Shortcut <i>View Terminal</i> set to <i>cmd+`</i> (may have to disable system prefs > keyboard > shortcuts > move focus to next window)
-        </li>
-      </ul>
-      <br/>
-    </details>
+    <h3>Extensions</h3>
+    <ul>
+      <li>Alphabetic sorter</li>
+      <li>Andromeda</li>
+      <li>C/C++</li>
+      <li>Code Runner</li>
+      <li>Docker</li>
+      <li>DotENV</li>
+      <li>ESLint</li>
+      <li>Go</li>
+      <li>Kubernetes</li>
+      <li>LiveShare</li>
+      <li>Python</li>
+      <li>Remote Code</li>
+      <li>Rust</li>
+      <li>VSCode Icons</li>
+      <li>YAML</li>
+    </ul>
+    <h3>Settings</h3>
+    <ul>
+      <li>
+        Shortcut <i>View Terminal</i> set to <i>cmd+`</i> (may have to disable system prefs > keyboard > shortcuts > move focus to next window)
+      </li>
+    </ul>
+    <br/>
   </sub>
 - [XCode](https://developer.apple.com/xcode/)
 
@@ -111,12 +101,10 @@ This is my personal storage unit on git. It houses my config files, list of appl
 - NPM
 - [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
   <sub>
-    <details>
-      <summary>Settings/Extensions</summary>
-      <ul>
-        <li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">Syntax Highlighting</a></li>
-      </ul>
-    </details>
+    <h3>Settings/Extensions</h3>
+    <ul>
+      <li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">Syntax Highlighting</a></li>
+    </ul>
   </sub>
 - Python3
 - Jupyter Notebooks
