@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".readme/logo.png">
+</p>
+
 # storage-unit
 A github rental unit for personal files
 
