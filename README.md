@@ -1,75 +1,125 @@
 <p align="center">
-  <img src=".readme/logo.png">
+  <img src=".readme/logo.svg">
 </p>
 
-# storage-unit
-A github rental unit for personal files
+# Storage Unit #1
+This is my personal storage unit on git. It houses my config files, list of applications, settings, and pretty much anything else I'd like to keep a record of. Feel free to use or get inspiration from anything in here... it's open to all.
 
-## Important Stuff
-- [Hopper](https://www.hopperapp.com)
+## Desktop Applications
+<sub>Last updated: Sat 14 Dec 2019</sub>
+- [Adobe After Effects CC](https://www.adobe.com/ca/creativecloud.html)
+- [Adobe Illustrator CC](https://www.adobe.com/ca/creativecloud.html)
+- [Adobe Photoshop CC](https://www.adobe.com/ca/creativecloud.html)
+- [Adobe Premiere Pro CC](https://www.adobe.com/ca/creativecloud.html)
+- [AirBuddy](https://gumroad.com/l/airbuddy)
+  <sub>
+    <details>
+      <summary>Settings</summary>
+      <ul>
+        <li>Battery Widget</li>
+      </ul>
+    </details>
+  </sub>
+- [Charles Proxy](https://www.charlesproxy.com/)
+- [CleanMyMac X](https://macpaw.com/cleanmymac)
+- [Discord](https://discordapp.com/)
+- [Docker](https://www.docker.com/)
+- [Dozer](https://dozermac.com/)
+- [GIF Brewery 3](https://gfycat.com/gifbrewery)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Hopper Disassembler v4](https://www.hopperapp.com/)
+- [Insomnia](https://insomnia.rest/)
+- [iStat Menus](https://bjango.com/mac/istatmenus)
+- [iTerm 2](https://iterm2.com/)
+  <sub>
+    <details>
+      <summary>Settings</summary>
+      <h3>Preferences > Profiles > Keys
+      <ul>
+        <li>Left option: Esc+</li>
+        <li>Key Mappings
+          <ul>
+            <li>opton+left-arrow -> <i>Esc Sequence: b</i></li>
+            <li>opton+right-arrow -> <i>Esc Sequence: f</i></li>
+            <li>opton+up-arrow -> <i>Hex Code: 0x01</i></li>
+            <li>opton+down-arrow -> <i>Hex Code: 0x05</i></li>
+          </ul>
+        </li>
+      </ul>
+    </details>
+  </sub>
+- [Magnet](https://magnet.crowdcafe.com/)
+  <sub>
+    <details>
+      <summary>Settings</summary>
+      <ul>
+        <li>Split up/down/left/right: <i>control+option+arrow</i></li>
+        <li>Split top left/top right/bottom left/bottom right: <i>control+option+u/i/j/k</i></li>
+      </ul>
+    </details>
+  </sub>
 - [Mission Control Plus](https://fadel.io/MissionControlPlus)
-- [Tempo](https://www.yourtempo.co/)
-- 1Password?
-- Brew 
-- Charles Proxy
-- clean my mac
-- premiere pro
-- ae
-- Discord
-- Docker
-- Gif Brewery 
-- Padbury Clock
+- [NordVPN](https://nordvpn.com)
+- [Sketch](https://www.sketch.com/)
+- [Slack](https://www.slack.com/)
+- [Spark](https://sparkmailapp.com/)
+- [Spotify](https://www.spotify.com/)
+- [TablePlus](https://tableplus.com/)
+- [The Unarchiver](https://theunarchiver.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+  <sub>
+    <details>
+      <summary>Extensions/Settings</summary>
+      <h3>Extensions</h3>
+      <ul>
+        <li>Alphabetic sorter</li>
+        <li>Andromeda</li>
+        <li>C/C++</li>
+        <li>Code Runner</li>
+        <li>Docker</li>
+        <li>DotENV</li>
+        <li>ESLint</li>
+        <li>Go</li>
+        <li>Kubernetes</li>
+        <li>LiveShare</li>
+        <li>Python</li>
+        <li>Remote Code</li>
+        <li>Rust</li>
+        <li>VSCode Icons</li>
+        <li>YAML</li>
+      </ul>
+      <h3>Settings</h3>
+      <ul>
+        <li>
+          Shortcut <i>View Terminal</i> set to <i>cmd+`</i> (may have to disable system prefs > keyboard > shortcuts > move focus to next window)
+        </li>
+      </ul>
+      <br/>
+    </details>
+  </sub>
+- [XCode](https://developer.apple.com/xcode/)
+
+## CLI Applications
+<sub>Last updated: Sat 14 Dec 2019</sub>
+- [Brew](https://brew.sh/)
+- Rustc
 - Go
-- Google Chrome
-- iTerm
 - Kubectl
 - Minikube
 - Ngrok
-- NodeJS?
-- NordVPN
-- notation
-- HyperDock / Magnet
-- https://meetfranz.com/
-- the unarchiever
-- NPM?
-- Oh my zsh
-- OneNote?
-- Plex
-- Postman <- checkout insomia first
-- Python Jupyter 
-- SideNotes
-- Sketch
-- Slack
-- Spotify
-- Swish
-- TablePlus
-- VSCode
-- insomnia.rest
-- battery health 2 (cmd + click/drag regular battery off toolbar)
-- XCode
-- Pock (maybe)
-- Zsh
+- Node.js
+- NPM
+- [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
+  <sub>
+    <details>
+      <summary>Settings/Extensions</summary>
+      <ul>
+        <li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">Syntax Highlighting</a></li>
+      </ul>
+    </details>
+  </sub>
+- Python3
+- Jupyter Notebooks
 
-
-## Personal To-Do's
-- Create new gmail account mack.boudreau2-tossaway@gmail.com (use for youtube)
-- Upgrade google drive storage to 100GB
-- Wipe desktop pc and quit apex
-- Clear spotify
-- Get mackflix running again
-- Use desktop as server, open ssh ports
-- Create new discord
-
-## Stuff installed after repo was created
-- `brew install watch`
-- `brew install kubernetes-helm`
-- Andromeda
-- VSCode Icons
-- Remote Code / LiveShare / Alphabetic sorter (VSCode extension)
-
-## Stuff to remember 
-- Slack theme `#1C1F26,#22252C,#466CB8,#FFFFFF,#22252C,#DCE2E8,#45CAFF,#e83a3d`
-
- `export ret_status="%(?:%{$fg_bold[green]%}➤ :%{$fg_bold[red]%}➤ )"`
-
- - change Vs code terminal view shortcut key to cmd+`
+# Config Applications
+- [Padbury Clock](https://padbury.app/)
